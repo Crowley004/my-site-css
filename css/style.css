@@ -16,17 +16,16 @@ h1 {
   position: absolute;
 }
 .top-container {
-  background-color: aqua;
+  background-color: #CCF3EE;
   padding-top: 100px;
   position: relative;
-}
-.middle-container {
-
-}
-.bottom-container {
 }
 .bottom-cloud{
   position: absolute;
   left: 300px;
   bottom: 300;
+}
+.me{
+  max-width: 25%;
+  max-height: auto;
 }
